@@ -22,6 +22,6 @@ To help businesses identify customers likely to churn and take preventive action
 
 ## 📈 Results
 
-* Accuracy: (yaha apna accuracy daal)
+* Accuracy: 99%
 
 
